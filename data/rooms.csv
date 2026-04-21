@@ -1,0 +1,55 @@
+room_id,room_name,building,type,capacity
+CS_LH1,CS LH1,FCSE,lecture_hall,80
+CS_LH2,CS LH2,FCSE,lecture_hall,80
+CS_LH3,CS LH3,FCSE,lecture_hall,80
+EE_LH4,EE LH4,FEE,lecture_hall,80
+EE_LH5,EE LH5,FEE,lecture_hall,80
+EE_LH6,EE LH6,FEE,lecture_hall,80
+EE_MAIN,EE Main,FEE,main_hall,150
+ES_LH1,ES LH1,FES,lecture_hall,60
+ES_LH2,ES LH2,FES,lecture_hall,60
+ES_LH3,ES LH3,FES,lecture_hall,60
+ES_MAIN,ES Main,FES,main_hall,150
+FES_PH_LAB,FES - PH Lab,FES,lab,100
+FES_SE_LAB,FES - SE Lab,FES,lab,60
+PC_LAB,PC Lab,FCSE,lab,60
+FCSE_SE_LAB,FCSE - SE Lab,FCSE,lab,60
+ACB_LH1,AcB LH1,ACB,lecture_hall,60
+ACB_LH2,AcB LH2,ACB,lecture_hall,60
+ACB_LH3,AcB LH3,ACB,lecture_hall,60
+ACB_LH4,AcB LH4,ACB,lecture_hall,80
+ACB_LH5,AcB LH5,ACB,lecture_hall,80
+ACB_LH6,AcB LH6,ACB,lecture_hall,80
+ACB_LH7,AcB LH7,ACB,lecture_hall,60
+ACB_LH8,AcB LH8,ACB,lecture_hall,80
+ACB_LH9,AcB LH9,ACB,lecture_hall,60
+ACB_LH10,AcB LH10,ACB,lecture_hall,80
+ACB_LH11,AcB LH11,ACB,lecture_hall,60
+ACB_LH12,AcB LH12,ACB,lecture_hall,60
+ACB_MAIN1,AcB Main1,ACB,main_hall,150
+ACB_MAIN2,AcB Main2,ACB,main_hall,200
+ACB_MAIN3,AcB Main3,ACB,main_hall,200
+ACB_AI_LAB,ACB - AI Lab,ACB,lab,50
+ACB_CYS_LAB,ACB - CYS Lab,ACB,lab,40
+ACB_DA_LAB,ACB - DA Lab,ACB,lab,50
+BB_LH2,BB LH2,BB,lecture_hall,80
+BB_EH1,BB EH1,BB,lecture_hall,80
+BB_EH2,BB EH2,BB,lecture_hall,80
+BB_EH3,BB EH3,BB,lecture_hall,80
+BB_EH4,BB EH4,BB,lecture_hall,80
+BB_MAIN,BB Main,BB,main_hall,150
+BB_PC_LAB,BB PC Lab,BB,lab,60
+ME_LH1,ME LH1,FME,lecture_hall,80
+ME_LH2,ME LH2,FME,lecture_hall,80
+ME_LH3,ME LH3,FME,lecture_hall,80
+ME_MAIN,ME Main,FME,main_hall,150
+FME_LAB,FME Lab,FME,lab,130
+MCE_LH1,MCE LH1,FMCE,lecture_hall,60
+MCE_LH2,MCE LH2,FMCE,lecture_hall,60
+MCE_LH3,MCE LH3,FMCE,lecture_hall,60
+MCE_LH4,MCE LH4,FMCE,lecture_hall,60
+MCE_MAIN,MCE Main,FMCE,main_hall,150
+FCME_MM_LAB,FCME - MM Lab,FMCE,lab,40
+FCME_CH_LAB,FCME - CH Lab,FMCE,lab,40
+FBS_LAB,FBS Lab,FBS,lab,120
+TBA_ROOM,TBA,TBA,lab,999
