@@ -312,12 +312,8 @@ This project was developed for:
 > **CS378 — Design and Analysis of Algorithms**, Spring 2026  
 > BS CYS / SWE · GIK Institute of Engineering Sciences and Technology  
 > Instructor: Mr. Salman Ashraf  
-> Weightage: 10% · CLO3 · GA3 · C3 (Bloom's Apply)
+> CLO3 · GA3 · C3 
 
-Demonstrates application of:
-- **Greedy Algorithms** (Week 11) — MCV ordering, phase-based scheduling  
-- **Graph-based conflict modelling** (Week 12) — bipartite resource-slot graphs  
-- **NP-completeness awareness** (Weeks 14–15) — UTP is NP-hard; greedy as practical heuristic  
 
 ---
 
